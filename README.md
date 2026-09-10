@@ -1,2 +1,1 @@
-# Cataclysm
-Cataclysm is a humorous 2D meme fighter about street-brawling cats. Players clash in fast-paced duels chaining combos, dashes, and catnip-fueled ultimate attacks in both solo AI mode and multiplayer.
+Cataclysm is a humorous 2D meme fighter about cat street duels. Players fight in fast-paced battles using combos, blocks, and a battle gauge to unleash ultimate attacks, while earning catnip to unlock new fighters. The game features both solo AI and multiplayer modes.
