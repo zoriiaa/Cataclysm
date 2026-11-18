@@ -98,7 +98,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ai.assistant": {
+<<<<<<< Updated upstream
       "version": "2.19.0-pre.2",
+=======
+      "version": "2.21.0-pre.2",
+>>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -149,7 +153,11 @@
       }
     },
     "com.unity.dt.app-ui": {
+<<<<<<< Updated upstream
       "version": "2.1.11",
+=======
+      "version": "2.2.4",
+>>>>>>> Stashed changes
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -179,12 +187,19 @@
       "dependencies": {}
     },
     "com.unity.ide.rider": {
+<<<<<<< Updated upstream
       "version": "3.0.38",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6"
       },
+=======
+      "version": "3.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+>>>>>>> Stashed changes
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
@@ -197,7 +212,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
+<<<<<<< Updated upstream
       "version": "1.20.0",
+=======
+      "version": "1.20.1",
+>>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -235,6 +254,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
     "com.unity.pipeline": {
       "version": "0.7.0-exp.1",
       "depth": 0,
@@ -249,6 +269,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> Stashed changes
     "com.unity.profiling.core": {
       "version": "1.0.3",
       "depth": 2,

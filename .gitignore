@@ -5,6 +5,11 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+<<<<<<< Updated upstream
+=======
+#
+.utmp/
+>>>>>>> Stashed changes
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -12,6 +17,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+<<<<<<< Updated upstream
+=======
+*.log
+>>>>>>> Stashed changes
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -73,5 +82,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+<<<<<<< Updated upstream
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
+=======
+>>>>>>> Stashed changes
